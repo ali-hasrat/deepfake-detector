@@ -1,0 +1,11 @@
+fastapi==0.115.12
+uvicorn==0.34.3
+opencv-python==4.11.0.86
+numpy==2.3.0
+tensorflow==2.19.0
+keras==3.10.0
+Pillow==11.2.1
+matplotlib==3.10.3
+streamlit==1.45.1
+python-multipart==0.0.20
+keras==3.10.0
