@@ -8,4 +8,4 @@ Pillow==11.2.1
 matplotlib==3.10.3
 streamlit==1.45.1
 python-multipart==0.0.20
-keras==3.10.0
+
